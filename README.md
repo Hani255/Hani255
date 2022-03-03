@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hani255
+- 👋 Hi, I’m Hani
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning CS50 to understand the basics
-- 💞️ I’m looking to collaborate on projects relevant to the course
-- 📫 How to reach me ...
+- 🌱 I'm currently learning Python in depth
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me haniabdi25@outlook.com
 
 <!---
 Hani255/Hani255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
