@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hani
-- 👀 I’m interested in computer science
-- 🌱 I'm currently learning Python in depth
+- 👀 I’m interested in code coding 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me haniabdi25@outlook.com
 
